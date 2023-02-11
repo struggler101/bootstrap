@@ -1,0 +1,172 @@
+body{
+    font-family: 'Montserrat, sans-serif';
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.meet{
+    font-family: 'Montserrat, sans-serif';
+      font-size: 3.5rem;  
+      line-height: 1.5;
+      font-weight: 900;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding:0 0  4.5rem;
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu';
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;  
+}
+.nav-link
+{
+    font-size: 1.25rem;
+    font-family: 'Montserrat-Light';
+}
+.download-button
+{
+    margin: 5% 3% 5% 0;
+}
+.image{
+    width: 60%;
+    height: 95%;
+    margin-left: 185px;
+    
+}
+#aboutus
+{  
+    text-align: center;
+    font-size: 2.25rem;
+    font-weight: 500;
+    padding: 0 auto;
+    background-color: rgb(245, 235, 223);
+}
+#vision
+{  
+    text-align: center;
+    font-size: 2.25rem;
+    font-weight: 500;
+    padding: 100px auto ;
+    background-color: rgb(252, 242, 229);
+
+}
+#features{
+   
+padding: 7% 15%;
+
+   
+}
+
+.easy{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    
+    font-weight: bold;
+    
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:#ff4c68 ;
+}
+#testimonials
+{
+   
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+h2{
+    font-family: 'Montserrat-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.testimg
+{ 
+   margin-top: 20px;
+   margin-bottom: 10px;
+}
+#press
+{ background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.logo{
+    width:15%;
+    margin: 20px 20px 50px;
+}
+.d{
+    color: #6e5454;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.carousel-item
+{
+    height:600px;
+    padding:5% 15%;
+}
+#pricing
+{
+padding:80px 100px 100px;
+
+}
+.card1{
+    padding: 3% 2%;
+}
+.ov{
+    padding-top: 20px;
+}
+@media (max-width:1028px)
+{
+    #title{
+        text-align: center;
+    }
+    .image{
+        width: 70%;
+        height: 100%;
+        
+        margin:0 auto 0 auto;
+        
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    
+    color:#fff;
+    text-align: center;
+    height: 500px;
+    padding: 7% 15%;
+    
+    font-family: 'Montserrat-Black';
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Ubuntu';
+    
+    
+    padding:7% 15%;
+}
+.foot{
+    margin: 20px 10px;
+     
+}
+.foot:hover{
+    color: rgb(119, 190, 167);
+}
